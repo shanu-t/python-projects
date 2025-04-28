@@ -1,4 +1,4 @@
-GithubRepo Project Explanation 
+1:- **GithubRepo Project Explanation** 
 
 **Send a Web Request to GitHub Topics Page** 
 1:- First, my Python code sends an HTTP request to the URL:
@@ -39,8 +39,8 @@ df = pd.DataFrame(data)
 My project automatically fetches important topic information from GitHub, organizes it neatly, and saves it for future use — using Python and web scraping techniques.
 
 
-**Project of Financial Statement Report**
-Now I explian this ----------
+2:- **Project of Financial Statement Report**
+    Now I explian this 
 **This project analyzes a company's sales and financial data stored in an Excel file (Financial_Sample.xlsx)**
       The main goal is to:--
 
