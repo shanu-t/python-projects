@@ -46,57 +46,58 @@ My project automatically fetches important topic information from GitHub, organi
 
     1:- Understand the data
 
-   2:-  Clean it by handling missing values
+    2:- Clean it by handling missing values
 
-   3:-  Prepare it for further financial analysis or visualization
+    3:- Prepare it for further financial analysis or visualization
 
-        It is an important first step in any data analytics process!
+    It is an important first step in any data analytics process!
 
-        1:-First Import the Libraries:-
+    1:-First Import the Libraries:-
         
-        pandas ➔ for working with tables and data
+    pandas ➔ for working with tables and data
 
-        matplotlib.pyplot ➔ (planned) for creating charts (not fully used yet)
+    matplotlib.pyplot ➔ (planned) for creating charts (not fully used yet)
 
-        2:-Check for Missing Data:-
+    2:-Check for Missing Data:-
         
-        3:-Handle Missing Values:-
-        **For object (text/string) columns**
-        I replace missing values with the mode (most frequent value).
+    3:-Handle Missing Values:-
+    **For object (text/string) columns**
+    I replace missing values with the mode (most frequent value).
 
-        **For numerical columns (float/int)**
-        I replace missing values with the mean (average value).
+    **For numerical columns (float/int)**
+    I replace missing values with the mean (average value).
 
-        This makes the dataset completely clean and ready for analysis.
+    This makes the dataset completely clean and ready for analysis.
 
-        **Understand the Dataset**
+    **Understand the Dataset**
 
-        I explore the dataset deeper by:
+    I explore the dataset deeper by:
 
-        Using .describe() ➔ To get summary statistics like mean, median, min, max.
+    Using .describe() ➔ To get summary statistics like mean, median, min, max.
 
-        Using .info() ➔ To understand data types and non-null counts.
+    Using .info() ➔ To understand data types and non-null counts.
 
-        This gives me insights about the sales performance across different countries, products, and segments.
+    This gives me insights about the sales performance across different countries, products, and segments.
 
-        Now What is the outcome?
+    Now What is the outcome?
 
-        A cleaned and ready financial dataset.
+    A cleaned and ready financial dataset.
 
-        All missing values are filled smartly.
+    All missing values are filled smartly.
 
-        Dataset is organized for further steps like building visualizations, dashboards, or predictive models.
+    Dataset is organized for further steps like building visualizations, dashboards, or predictive models.
 
-        **Tools and Technologies Used**
-        1:- Python 3
+    **Tools and Technologies Used**
+    1:- Python 3
 
-        2:- pandas ➔ for data loading, cleaning, and basic analysis
+    2:- pandas ➔ for data loading, cleaning, and basic analysis
 
-        3:- matplotlib.pyplot ➔ imported for visualization (can be used to create graphs later)
+    3:- matplotlib.pyplot ➔ imported for visualization (can be used to create graphs later)
 
-         **In simple words**
-         This project loads real-world financial sales data, cleans it properly by fixing missing values, and prepares it for future analysis like building graphs, making sales 
-         predictions, or finding business insights.
+    **In simple words**
+    This project loads real-world financial sales data, cleans it properly by fixing missing values, and prepares it for future analysis 
+    like building graphs, making sales 
+    predictions, or finding business insights.
 
 
 
