@@ -39,8 +39,9 @@ df = pd.DataFrame(data)
 My project automatically fetches important topic information from GitHub, organizes it neatly, and saves it for future use — using Python and web scraping techniques.
 
 
-
-2:- **This project analyzes a company's sales and financial data stored in an Excel file (Financial_Sample.xlsx)**
+**Project of Financial Statement Report**
+Now I explian this ----------
+**This project analyzes a company's sales and financial data stored in an Excel file (Financial_Sample.xlsx)**
       The main goal is to:--
 
     1:- Understand the data
